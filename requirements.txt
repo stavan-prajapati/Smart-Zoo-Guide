@@ -1,0 +1,5 @@
+opencv-python
+PyOpenGL
+numpy
+matplotlib
+tk
